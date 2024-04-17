@@ -7,3 +7,4 @@ def substract(a: int, b: int) -> int:
 if __name__ == "__main__":
     print(sum_(10, 20))
     print(substract(20, 10))
+    print("whatever")
